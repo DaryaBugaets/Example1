@@ -1,0 +1,15 @@
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example002_HelloUser\obj\Debug\net6.0\refint\Example002_HelloUser.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
