@@ -1,0 +1,15 @@
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.exe
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.deps.json
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.runtimeconfig.json
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.pdb
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.csproj.AssemblyReference.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.AssemblyInfoInputs.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.AssemblyInfo.cs
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.csproj.CoreCompileInputs.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example006_Base\obj\Debug\net6.0\refint\Example006_Base.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.pdb
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.genruntimeconfig.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example006_Base\obj\Debug\net6.0\ref\Example006_Base.dll
