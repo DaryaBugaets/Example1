@@ -1,0 +1,15 @@
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.csproj.AssemblyReference.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.AssemblyInfoInputs.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.AssemblyInfo.cs
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.csproj.CoreCompileInputs.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.exe
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.deps.json
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.runtimeconfig.json
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.pdb
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example009_IntroArray\obj\Debug\net6.0\refint\Example009_IntroArray.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.pdb
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.genruntimeconfig.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example009_IntroArray\obj\Debug\net6.0\ref\Example009_IntroArray.dll

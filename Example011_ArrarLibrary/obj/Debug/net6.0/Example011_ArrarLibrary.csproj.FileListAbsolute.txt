@@ -1,0 +1,15 @@
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example011_ArrarLibrary\bin\Debug\net6.0\Example011_ArrarLibrary.exe
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example011_ArrarLibrary\bin\Debug\net6.0\Example011_ArrarLibrary.deps.json
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example011_ArrarLibrary\bin\Debug\net6.0\Example011_ArrarLibrary.runtimeconfig.json
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example011_ArrarLibrary\bin\Debug\net6.0\Example011_ArrarLibrary.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example011_ArrarLibrary\bin\Debug\net6.0\Example011_ArrarLibrary.pdb
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example011_ArrarLibrary\obj\Debug\net6.0\Example011_ArrarLibrary.csproj.AssemblyReference.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example011_ArrarLibrary\obj\Debug\net6.0\Example011_ArrarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example011_ArrarLibrary\obj\Debug\net6.0\Example011_ArrarLibrary.AssemblyInfoInputs.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example011_ArrarLibrary\obj\Debug\net6.0\Example011_ArrarLibrary.AssemblyInfo.cs
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example011_ArrarLibrary\obj\Debug\net6.0\Example011_ArrarLibrary.csproj.CoreCompileInputs.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example011_ArrarLibrary\obj\Debug\net6.0\Example011_ArrarLibrary.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example011_ArrarLibrary\obj\Debug\net6.0\refint\Example011_ArrarLibrary.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example011_ArrarLibrary\obj\Debug\net6.0\Example011_ArrarLibrary.pdb
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example011_ArrarLibrary\obj\Debug\net6.0\Example011_ArrarLibrary.genruntimeconfig.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example011_ArrarLibrary\obj\Debug\net6.0\ref\Example011_ArrarLibrary.dll
