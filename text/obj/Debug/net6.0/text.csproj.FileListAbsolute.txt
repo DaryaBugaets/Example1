@@ -1,0 +1,15 @@
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\text\obj\Debug\net6.0\text.csproj.AssemblyReference.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\text\obj\Debug\net6.0\text.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\text\obj\Debug\net6.0\text.AssemblyInfoInputs.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\text\obj\Debug\net6.0\text.AssemblyInfo.cs
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\text\obj\Debug\net6.0\text.csproj.CoreCompileInputs.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\text\bin\Debug\net6.0\text.exe
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\text\bin\Debug\net6.0\text.deps.json
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\text\bin\Debug\net6.0\text.runtimeconfig.json
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\text\bin\Debug\net6.0\text.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\text\bin\Debug\net6.0\text.pdb
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\text\obj\Debug\net6.0\text.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\text\obj\Debug\net6.0\refint\text.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\text\obj\Debug\net6.0\text.pdb
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\text\obj\Debug\net6.0\text.genruntimeconfig.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\text\obj\Debug\net6.0\ref\text.dll
