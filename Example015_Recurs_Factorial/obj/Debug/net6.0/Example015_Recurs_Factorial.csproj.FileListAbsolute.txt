@@ -1,0 +1,15 @@
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example015_Recurs_Factorial\bin\Debug\net6.0\Example015_Recurs_Factorial.exe
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example015_Recurs_Factorial\bin\Debug\net6.0\Example015_Recurs_Factorial.deps.json
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example015_Recurs_Factorial\bin\Debug\net6.0\Example015_Recurs_Factorial.runtimeconfig.json
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example015_Recurs_Factorial\bin\Debug\net6.0\Example015_Recurs_Factorial.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example015_Recurs_Factorial\bin\Debug\net6.0\Example015_Recurs_Factorial.pdb
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example015_Recurs_Factorial\obj\Debug\net6.0\Example015_Recurs_Factorial.csproj.AssemblyReference.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example015_Recurs_Factorial\obj\Debug\net6.0\Example015_Recurs_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example015_Recurs_Factorial\obj\Debug\net6.0\Example015_Recurs_Factorial.AssemblyInfoInputs.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example015_Recurs_Factorial\obj\Debug\net6.0\Example015_Recurs_Factorial.AssemblyInfo.cs
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example015_Recurs_Factorial\obj\Debug\net6.0\Example015_Recurs_Factorial.csproj.CoreCompileInputs.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example015_Recurs_Factorial\obj\Debug\net6.0\Example015_Recurs_Factorial.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example015_Recurs_Factorial\obj\Debug\net6.0\refint\Example015_Recurs_Factorial.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example015_Recurs_Factorial\obj\Debug\net6.0\Example015_Recurs_Factorial.pdb
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example015_Recurs_Factorial\obj\Debug\net6.0\Example015_Recurs_Factorial.genruntimeconfig.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example015_Recurs_Factorial\obj\Debug\net6.0\ref\Example015_Recurs_Factorial.dll

@@ -1,0 +1,15 @@
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example013_Recurs\bin\Debug\net6.0\Example013_Recurs.exe
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example013_Recurs\bin\Debug\net6.0\Example013_Recurs.deps.json
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example013_Recurs\bin\Debug\net6.0\Example013_Recurs.runtimeconfig.json
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example013_Recurs\bin\Debug\net6.0\Example013_Recurs.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example013_Recurs\bin\Debug\net6.0\Example013_Recurs.pdb
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example013_Recurs\obj\Debug\net6.0\Example013_Recurs.csproj.AssemblyReference.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example013_Recurs\obj\Debug\net6.0\Example013_Recurs.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example013_Recurs\obj\Debug\net6.0\Example013_Recurs.AssemblyInfoInputs.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example013_Recurs\obj\Debug\net6.0\Example013_Recurs.AssemblyInfo.cs
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example013_Recurs\obj\Debug\net6.0\Example013_Recurs.csproj.CoreCompileInputs.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example013_Recurs\obj\Debug\net6.0\Example013_Recurs.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example013_Recurs\obj\Debug\net6.0\refint\Example013_Recurs.dll
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example013_Recurs\obj\Debug\net6.0\Example013_Recurs.pdb
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example013_Recurs\obj\Debug\net6.0\Example013_Recurs.genruntimeconfig.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example013_Recurs\obj\Debug\net6.0\ref\Example013_Recurs.dll

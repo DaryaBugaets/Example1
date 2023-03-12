@@ -1,0 +1,5 @@
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example014_Like\obj\Debug\net6.0\Example014_Like.csproj.AssemblyReference.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example014_Like\obj\Debug\net6.0\Example014_Like.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example014_Like\obj\Debug\net6.0\Example014_Like.AssemblyInfoInputs.cache
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example014_Like\obj\Debug\net6.0\Example014_Like.AssemblyInfo.cs
+D:\IT\07-15. Знакомство с языками программирования\01\Examples\Example014_Like\obj\Debug\net6.0\Example014_Like.csproj.CoreCompileInputs.cache
